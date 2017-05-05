@@ -17,7 +17,7 @@ module.exports = function ExitCommand(dispatch) {
 		dispatch.toServer('C_EXIT', 1, {});
 	}
 	
-	// slash support
+	// slash support, thanks to wuaw for snippet
 	try {
 		const Slash = require('slash')
 		const slash = new Slash(dispatch)
