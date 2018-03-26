@@ -1,11 +1,17 @@
-# Exit Command
+# exit-command
 Exit the game via chat command
 
-### Chat commands:
-!quit
-!exit
+## Dependency
+- `Command` module
 
-Both commands do the exact samething.
-Commands are not case-sensitive.
+## Usage
+### `quit` 'exit'
 
-[slash](https://github.com/baldera-mods/slash) is supported but not required
+## Changelog
+<details>
+
+    1.10
+    - Added Command dependency
+    - Removed slash support
+
+</details>
