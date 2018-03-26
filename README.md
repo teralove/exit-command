@@ -5,7 +5,7 @@ Exit the game via chat command
 - `Command` module
 
 ## Usage
-### `quit` 'exit'
+### `quit` `exit`
 
 ## Changelog
 <details>
