@@ -1,10 +1,6 @@
-const Command = require('command');
-
-module.exports = function ExitCommand(dispatch) {
-    const command = Command(dispatch);
+module.exports = function ExitCommand(mod) {
     
-    command.add(['exit', 'quit'], () => {
-        dispatch.toServer('C_EXIT', 1, {});
+    mod.command.add(['exit', 'quit'], () => {
+        mod.send('C_EXIT', 1, {});
     });
-
 }

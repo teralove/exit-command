@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+	"name": "exit-command",
+	"author": "teralove",
+	"description": "Close the game via chat command.",
+	"options": {
+		"niceName": "Exit Command"
+	},
+    "servers": ["https://raw.githubusercontent.com/teralove/exit-command/master/"],
+    "supportUrl": "https://github.com/teralove/exit-command/issues"
+}
