@@ -1,6 +1,7 @@
 {
 	"files": {
-		"index.js": "1a31491721c944a45494d749bb92cd2ba6353c6491237cdc33ccd12465dff557"
+		"index.js": "1a31491721c944a45494d749bb92cd2ba6353c6491237cdc33ccd12465dff557",
+        "module.json": "c70f78c8370d71b6b3c95e936173d4ae3b42aa395cca6083e61b1cb28044fbcd"
 	},
 	"defs": {
 		"S_EXIT": 1
