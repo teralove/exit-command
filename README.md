@@ -2,4 +2,4 @@
 Close the game via chat command
 
 ## Commands
-### `quit` 'exit'
+### `quit` `exit`
